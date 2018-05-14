@@ -1,0 +1,19 @@
+{
+  "name": "rock-paper-scissors-distil62",
+  "version": "1.0.0",
+  "description": "Build a rock-paper-scissors game composed of two pages. On the first page, the user should be able to select an option (whether rock, paper or scissors). When the user choose an option, he should be redirected to another page. On that page he should see the option he picked, the option the computer picked and if he won, lost or if it's a draw.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeCourse/rock-paper-scissors-Distil62.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NodeCourse/rock-paper-scissors-Distil62/issues"
+  },
+  "homepage": "https://github.com/NodeCourse/rock-paper-scissors-Distil62#readme"
+}
